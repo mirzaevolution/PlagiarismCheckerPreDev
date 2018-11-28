@@ -6,3 +6,11 @@ c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\S
 c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StopwordsRemoval\obj\Debug\StopwordsRemoval.csproj.CoreCompileInputs.cache
 c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StopwordsRemoval\obj\Debug\StopwordsRemoval.exe
 c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StopwordsRemoval\obj\Debug\StopwordsRemoval.pdb
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\StopwordsRemoval\bin\Debug\StopwordsRemoval.exe.config
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\StopwordsRemoval\bin\Debug\StopwordsRemoval.exe
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\StopwordsRemoval\bin\Debug\StopwordsRemoval.pdb
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\StopwordsRemoval\obj\Debug\StopwordsRemoval.csprojResolveAssemblyReference.cache
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\StopwordsRemoval\obj\Debug\StopwordsRemoval.CommonEnglishWords.resources
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\StopwordsRemoval\obj\Debug\StopwordsRemoval.csproj.GenerateResource.Cache
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\StopwordsRemoval\obj\Debug\StopwordsRemoval.exe
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\StopwordsRemoval\obj\Debug\StopwordsRemoval.pdb

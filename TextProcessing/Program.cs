@@ -1,4 +1,4 @@
-﻿using Annytab.Stemmer;
+﻿using Annytab;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -16,8 +16,10 @@ namespace TextProcessing
         public string Description { get; set; }
         public int Distance { get; set; }
         public int Max { get; set; }
-        public string[] Target { get; set; }
-        public string[] Source { get; set; }
+        public string[] TargetArray { get; set; }
+        public string Target { get; set; }
+        public string[] SourceArray { get; set; }
+        public string Source { get; set; }
         public TimeSpan CalculationTime { get; set; }
     }
     public class TextProcessing
@@ -90,8 +92,6 @@ namespace TextProcessing
                     _commonEnglishWords = value;
             }
         }
-
-
         public string[] Process(string text)
         {
             //Check if string is empty/null.
@@ -114,7 +114,7 @@ namespace TextProcessing
             string[] stopwordsRemoval = tokenizedString.Select(x => x.ToLower()).Except(commonWords).ToArray();
 
             //5. Stemming process
-            IStemmer stemmer = new EnglishStemmer();
+            EnglishStemmer stemmer = new EnglishStemmer();
             string[] stemmedWords = stemmer.GetSteamWords(stopwordsRemoval);
 
             
@@ -179,6 +179,7 @@ namespace TextProcessing
 
     public class PlagiriasmChecker
     {
+        public string Language { get; set; } = "English";
         private string TransformString(string[] array)
         {
             if(array != null && array.Length>0)
@@ -194,14 +195,93 @@ namespace TextProcessing
             Plagiarism result = new Plagiarism();
             try
             {
-                result.Target = target;
-                result.Source = source;
+                result.TargetArray = target;
+                result.SourceArray = source;
 
                 string targetStr = TransformString(target);
                 string sourceStr = TransformString(source);
 
                 int targetLength = targetStr.Length;
                 int sourceLength = sourceStr.Length;
+
+                result.Target = targetStr;
+                result.Source = sourceStr;
+                
+                Stopwatch stopwatch = Stopwatch.StartNew();
+
+                result.Distance = EditDistance.CalculateLevenshtein(sourceStr, targetStr);
+
+                result.Max = Math.Max(targetLength, sourceLength);
+
+                result.Percentage = ((1 - ((float)result.Distance / (float)result.Max)) * 100);
+
+                int percentageInt = Convert.ToInt32(result.Percentage);
+                result.PercentageInteger = percentageInt;
+
+                if (percentageInt < 30)
+                {
+                    switch(Language.ToLower().Trim())
+                    {
+                        case "Indonesia":
+                            result.Description = "Level plagiarisme rendah";
+                            break;
+                        default:
+                            result.Description = "Plagiarism level is low";
+                            break;
+
+                    }
+                }
+                else if(percentageInt <= 70)
+                {
+
+                    switch (Language.ToLower().Trim())
+                    {
+                        case "Indonesia":
+                            result.Description = "Level plagiarisme sedang";
+                            break;
+                        default:
+                            result.Description = "Plagiarism level is intermediate";
+                            break;
+                    }
+                }
+                else if(percentageInt>70)
+                {
+                    switch (Language.ToLower().Trim())
+                    {
+                        case "Indonesia":
+                            result.Description = "Level plagiarisme tinggi";
+                            break;
+                        default:
+                            result.Description = "Plagiarism level is high";
+                            break;
+                    }
+                }
+
+                stopwatch.Stop();
+                result.CalculationTime = stopwatch.Elapsed;
+            }
+            catch(Exception ex)
+            {
+                Trace.WriteLine(ex);
+            }
+            return result;
+        }
+        public Plagiarism Check(string[] target, string sourceFromDb)
+        {
+            Plagiarism result = new Plagiarism();
+            try
+            {
+                result.TargetArray = target;
+                result.SourceArray = null;
+
+                string targetStr = TransformString(target);
+                string sourceStr = sourceFromDb;
+
+                int targetLength = targetStr.Length;
+                int sourceLength = sourceStr.Length;
+
+                result.Target = targetStr;
+                result.Source = sourceStr;
 
                 Stopwatch stopwatch = Stopwatch.StartNew();
 
@@ -216,21 +296,47 @@ namespace TextProcessing
 
                 if (percentageInt < 30)
                 {
-                    result.Description = "Plagiarism level is low";
+                    switch (Language.ToLower().Trim())
+                    {
+                        case "Indonesia":
+                            result.Description = "Level plagiarisme rendah";
+                            break;
+                        default:
+                            result.Description = "Plagiarism level is low";
+                            break;
+
+                    }
                 }
-                else if(percentageInt <= 70)
+                else if (percentageInt <= 70)
                 {
-                    result.Description = "Plagiarism level is intermediate";
+
+                    switch (Language.ToLower().Trim())
+                    {
+                        case "Indonesia":
+                            result.Description = "Level plagiarisme sedang";
+                            break;
+                        default:
+                            result.Description = "Plagiarism level is intermediate";
+                            break;
+                    }
                 }
-                else if(percentageInt>70)
+                else if (percentageInt > 70)
                 {
-                    result.Description = "Plagiarism level is heavy";
+                    switch (Language.ToLower().Trim())
+                    {
+                        case "Indonesia":
+                            result.Description = "Level plagiarisme tinggi";
+                            break;
+                        default:
+                            result.Description = "Plagiarism level is high";
+                            break;
+                    }
                 }
 
                 stopwatch.Stop();
                 result.CalculationTime = stopwatch.Elapsed;
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Trace.WriteLine(ex);
             }
@@ -260,11 +366,27 @@ namespace TextProcessing
             Plagiarism plagiarism = new PlagiriasmChecker().Check(targetArray, sourceArray);
             Console.WriteLine($"Percentage: {plagiarism.PercentageInteger}%");
             Console.WriteLine($"Result: {plagiarism.Description}");
+            Console.WriteLine($"Elapsed: {plagiarism.CalculationTime}");
+        }
+        static void Sample3()
+        {
+            string sourceFromDb = "beauti\nbook\ndream\nfriend\nlove\nlove\nread\nsexi";
+            string target = "Hahaha He is Mirza Ghulam Rasyid. Hello. Bangke Banget.";
+            
+            TextProcessing textProcessing = new TextProcessing(BaseWords.Words);
+
+            string[] targetArray = textProcessing.Process(target);
+            
+            Plagiarism plagiarism = new PlagiriasmChecker().Check(targetArray, sourceFromDb);
+            Console.WriteLine($"Percentage: {plagiarism.PercentageInteger}%");
+            Console.WriteLine($"Result: {plagiarism.Description}");
+            Console.WriteLine($"Elapsed: {plagiarism.CalculationTime}");
         }
         static void Main(string[] args)
         {
             //Sample1();
-            Sample2();
+            //Sample2();
+            Sample3();
             Console.ReadLine();
         }
     }

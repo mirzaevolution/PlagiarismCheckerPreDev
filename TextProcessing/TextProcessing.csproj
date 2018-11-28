@@ -8,9 +8,10 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>TextProcessing</RootNamespace>
     <AssemblyName>TextProcessing</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -32,11 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Annytab.Stemmer, Version=1.2.3.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Annytab.Stemmer.1.2.3\lib\netstandard2.0\Annytab.Stemmer.dll</HintPath>
-    </Reference>
-    <Reference Include="StemmersNet, Version=1.1.1.0, Culture=neutral, PublicKeyToken=5b16b226aedf3c3b, processorArchitecture=MSIL">
-      <HintPath>..\packages\StemmersNet.1.1.1.0\lib\net20\StemmersNet.dll</HintPath>
+    <Reference Include="Annytab.Stemmer, Version=1.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Annytab.Stemmer.1.2.0.0\lib\net451\Annytab.Stemmer.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

@@ -1,0 +1,8 @@
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary\bin\Debug\Plagiarism.CoreLibrary.dll
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary\bin\Debug\Plagiarism.CoreLibrary.pdb
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary\bin\Debug\Annytab.Stemmer.dll
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary\bin\Debug\itextsharp.dll
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary\bin\Debug\itextsharp.xml
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary\obj\Debug\Plagiarism.CoreLibrary.dll
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary\obj\Debug\Plagiarism.CoreLibrary.pdb
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary\obj\Debug\Plagiarism.CoreLibrary.csprojResolveAssemblyReference.cache

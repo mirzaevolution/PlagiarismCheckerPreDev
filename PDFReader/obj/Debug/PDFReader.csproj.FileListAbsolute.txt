@@ -1,0 +1,11 @@
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\PDFReader\bin\Debug\PDFReader.exe.config
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\PDFReader\bin\Debug\PDFReader.exe
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\PDFReader\bin\Debug\PDFReader.pdb
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\PDFReader\bin\Debug\itextsharp.dll
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\PDFReader\bin\Debug\itextsharp.xml
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\PDFReader\obj\Debug\PDFReader.csprojResolveAssemblyReference.cache
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\PDFReader\obj\Debug\PDFReader.Form1.resources
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\PDFReader\obj\Debug\PDFReader.Properties.Resources.resources
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\PDFReader\obj\Debug\PDFReader.csproj.GenerateResource.Cache
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\PDFReader\obj\Debug\PDFReader.exe
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\PDFReader\obj\Debug\PDFReader.pdb

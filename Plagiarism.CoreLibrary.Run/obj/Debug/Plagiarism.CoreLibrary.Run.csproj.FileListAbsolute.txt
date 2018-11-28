@@ -1,0 +1,13 @@
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary.Run\bin\Debug\Plagiarism.CoreLibrary.Run.exe.config
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary.Run\bin\Debug\Plagiarism.CoreLibrary.Run.exe
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary.Run\bin\Debug\Plagiarism.CoreLibrary.Run.pdb
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary.Run\bin\Debug\Plagiarism.CoreLibrary.dll
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary.Run\bin\Debug\itextsharp.dll
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary.Run\bin\Debug\Annytab.Stemmer.dll
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary.Run\bin\Debug\Plagiarism.CoreLibrary.pdb
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary.Run\bin\Debug\itextsharp.xml
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary.Run\obj\Debug\Plagiarism.CoreLibrary.Run.csprojResolveAssemblyReference.cache
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary.Run\obj\Debug\Plagiarism.CoreLibrary.Run.BaseWords.resources
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary.Run\obj\Debug\Plagiarism.CoreLibrary.Run.csproj.GenerateResource.Cache
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary.Run\obj\Debug\Plagiarism.CoreLibrary.Run.exe
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\Plagiarism.CoreLibrary.Run\obj\Debug\Plagiarism.CoreLibrary.Run.pdb
