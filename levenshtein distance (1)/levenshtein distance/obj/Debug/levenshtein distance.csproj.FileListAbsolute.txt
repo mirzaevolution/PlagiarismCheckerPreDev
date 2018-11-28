@@ -1,0 +1,52 @@
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\bin\Debug\levenshtein distance.exe.config
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\bin\Debug\levenshtein distance.exe
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\bin\Debug\levenshtein distance.pdb
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\obj\Debug\levenshtein distance.csprojResolveAssemblyReference.cache
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\obj\Debug\levenshtein_distance.Properties.Resources.resources
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\obj\Debug\levenshtein distance.csproj.GenerateResource.Cache
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\obj\Debug\levenshtein distance.exe
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\obj\Debug\levenshtein distance.pdb
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\bin\Debug\pdfbox-1.8.9.dll
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\bin\Debug\IKVM.Runtime.dll
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\bin\Debug\commons-logging.dll
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\bin\Debug\fontbox-1.8.9.dll
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\obj\Debug\levenshtein_distance.LoginForm.resources
+D:\SKRIPSI\COBA C#\levenshtein distance\levenshtein distance\obj\Debug\levenshtein_distance.Main.resources
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\bin\Debug\levenshtein distance.exe.config
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\bin\Debug\levenshtein distance.exe
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\bin\Debug\levenshtein distance.pdb
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\bin\Debug\pdfbox-1.8.9.dll
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\obj\Debug\levenshtein distance.csprojResolveAssemblyReference.cache
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\obj\Debug\levenshtein_distance.Main.resources
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\obj\Debug\levenshtein_distance.LoginForm.resources
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\obj\Debug\levenshtein_distance.Properties.Resources.resources
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\obj\Debug\levenshtein distance.csproj.GenerateResource.Cache
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\obj\Debug\levenshtein distance.exe
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\obj\Debug\levenshtein distance.pdb
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\bin\Debug\IKVM.Runtime.dll
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\bin\Debug\commons-logging.dll
+D:\SKRIPSI\PROJECT C#\levenshtein distance\levenshtein distance\bin\Debug\fontbox-1.8.9.dll
+D:\Download\Downloads\Compressed\levenshtein distance (1)\levenshtein distance\bin\Debug\levenshtein distance.exe.config
+D:\Download\Downloads\Compressed\levenshtein distance (1)\levenshtein distance\bin\Debug\levenshtein distance.exe
+D:\Download\Downloads\Compressed\levenshtein distance (1)\levenshtein distance\bin\Debug\levenshtein distance.pdb
+D:\Download\Downloads\Compressed\levenshtein distance (1)\levenshtein distance\bin\Debug\IKVM.Runtime.dll
+D:\Download\Downloads\Compressed\levenshtein distance (1)\levenshtein distance\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Download\Downloads\Compressed\levenshtein distance (1)\levenshtein distance\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Download\Downloads\Compressed\levenshtein distance (1)\levenshtein distance\bin\Debug\commons-logging.dll
+D:\Download\Downloads\Compressed\levenshtein distance (1)\levenshtein distance\bin\Debug\fontbox-1.8.9.dll
+D:\Download\Downloads\Compressed\levenshtein distance (1)\levenshtein distance\obj\Debug\levenshtein distance.csprojResolveAssemblyReference.cache
+D:\Download\Downloads\Compressed\levenshtein distance (1)\levenshtein distance\obj\Debug\levenshtein_distance.Main.resources
+D:\Download\Downloads\Compressed\levenshtein distance (1)\levenshtein distance\obj\Debug\levenshtein_distance.LoginForm.resources
+D:\Download\Downloads\Compressed\levenshtein distance (1)\levenshtein distance\obj\Debug\levenshtein_distance.Properties.Resources.resources
+D:\Download\Downloads\Compressed\levenshtein distance (1)\levenshtein distance\obj\Debug\levenshtein distance.csproj.GenerateResource.Cache
+D:\Download\Downloads\Compressed\levenshtein distance (1)\levenshtein distance\obj\Debug\levenshtein distance.csproj.CoreCompileInputs.cache
+D:\Download\Downloads\Compressed\levenshtein distance (1)\levenshtein distance\obj\Debug\levenshtein distance.exe
+D:\Download\Downloads\Compressed\levenshtein distance (1)\levenshtein distance\obj\Debug\levenshtein distance.pdb

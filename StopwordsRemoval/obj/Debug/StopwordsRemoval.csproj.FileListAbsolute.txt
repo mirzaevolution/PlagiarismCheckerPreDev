@@ -1,0 +1,8 @@
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StopwordsRemoval\bin\Debug\StopwordsRemoval.exe.config
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StopwordsRemoval\bin\Debug\StopwordsRemoval.exe
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StopwordsRemoval\bin\Debug\StopwordsRemoval.pdb
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StopwordsRemoval\obj\Debug\StopwordsRemoval.CommonEnglishWords.resources
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StopwordsRemoval\obj\Debug\StopwordsRemoval.csproj.GenerateResource.Cache
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StopwordsRemoval\obj\Debug\StopwordsRemoval.csproj.CoreCompileInputs.cache
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StopwordsRemoval\obj\Debug\StopwordsRemoval.exe
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StopwordsRemoval\obj\Debug\StopwordsRemoval.pdb
