@@ -106,3 +106,12 @@ c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\T
 c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\TextProcessing\bin\Debug\StemmersNet.dll
 c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\TextProcessing\obj\Debug\TextProcessing.BaseWords.resources
 c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\TextProcessing\obj\Debug\TextProcessing.csproj.GenerateResource.Cache
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\TextProcessing\obj\Debug\TextProcessing.csprojResolveAssemblyReference.cache
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\TextProcessing\obj\Debug\TextProcessing.BaseWords.resources
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\TextProcessing\obj\Debug\TextProcessing.csproj.GenerateResource.Cache
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\TextProcessing\bin\Debug\TextProcessing.exe.config
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\TextProcessing\bin\Debug\TextProcessing.exe
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\TextProcessing\bin\Debug\TextProcessing.pdb
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\TextProcessing\bin\Debug\Annytab.Stemmer.dll
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\TextProcessing\obj\Debug\TextProcessing.exe
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\TextProcessing\obj\Debug\TextProcessing.pdb

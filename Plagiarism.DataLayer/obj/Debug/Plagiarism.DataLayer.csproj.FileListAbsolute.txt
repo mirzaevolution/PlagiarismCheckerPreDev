@@ -1,0 +1,16 @@
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\Plagiarism.DataLayer\bin\Debug\Plagiarism.DataLayer.dll.config
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\Plagiarism.DataLayer\bin\Debug\Plagiarism.DataLayer.dll
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\Plagiarism.DataLayer\bin\Debug\Plagiarism.DataLayer.pdb
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\Plagiarism.DataLayer\bin\Debug\EntityFramework.dll
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\Plagiarism.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\Plagiarism.DataLayer\bin\Debug\MirzaCryptoHelpersV2.dll
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\Plagiarism.DataLayer\bin\Debug\Newtonsoft.Json.dll
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\Plagiarism.DataLayer\bin\Debug\EntityFramework.xml
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\Plagiarism.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\Plagiarism.DataLayer\bin\Debug\MirzaCryptoHelpersV2.xml
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\Plagiarism.DataLayer\bin\Debug\Newtonsoft.Json.pdb
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\Plagiarism.DataLayer\bin\Debug\Newtonsoft.Json.xml
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\Plagiarism.DataLayer\obj\Debug\Plagiarism.DataLayer.csprojResolveAssemblyReference.cache
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\Plagiarism.DataLayer\obj\Debug\Plagiarism.DataLayer.csproj.CoreCompileInputs.cache
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\Plagiarism.DataLayer\obj\Debug\Plagiarism.DataLayer.dll
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\Plagiarism.DataLayer\obj\Debug\Plagiarism.DataLayer.pdb

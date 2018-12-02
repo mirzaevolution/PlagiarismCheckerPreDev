@@ -104,3 +104,6 @@ c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\W
 c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\WordStemmer\obj\Debug\WordStemmer.exe
 c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\WordStemmer\obj\Debug\WordStemmer.pdb
 c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\WordStemmer\bin\Debug\StemmersNet.dll
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\WordStemmer\obj\Debug\WordStemmer.csprojResolveAssemblyReference.cache
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\WordStemmer\obj\Debug\WordStemmer.exe
+D:\Programming\PlagiarismCheckerPreDev\PlagiarismCheckerPreDev\WordStemmer\obj\Debug\WordStemmer.pdb

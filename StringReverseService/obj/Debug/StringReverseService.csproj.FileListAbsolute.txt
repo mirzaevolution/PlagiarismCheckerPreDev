@@ -1,0 +1,16 @@
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StringReverseService\bin\Debug\StringReverseService.exe.config
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StringReverseService\bin\Debug\StringReverseService.exe
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StringReverseService\bin\Debug\StringReverseService.pdb
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StringReverseService\bin\Debug\EntityFramework.dll
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StringReverseService\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StringReverseService\bin\Debug\FluentScheduler.dll
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StringReverseService\bin\Debug\Topshelf.dll
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StringReverseService\bin\Debug\EntityFramework.xml
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StringReverseService\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StringReverseService\bin\Debug\FluentScheduler.pdb
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StringReverseService\bin\Debug\FluentScheduler.xml
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StringReverseService\bin\Debug\Topshelf.xml
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StringReverseService\obj\Debug\StringReverseService.csprojResolveAssemblyReference.cache
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StringReverseService\obj\Debug\StringReverseService.csproj.CoreCompileInputs.cache
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StringReverseService\obj\Debug\StringReverseService.exe
+c:\users\skyline\documents\visual studio 2017\Projects\PlagiarismCheckerPreDev\StringReverseService\obj\Debug\StringReverseService.pdb
