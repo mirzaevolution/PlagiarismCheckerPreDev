@@ -157,6 +157,10 @@
     <Content Include="Content\bootstrap-reboot.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Images\14568185_668362229998745_8315935703999124274_n.jpg" />
+    <Content Include="Content\Images\profile_picture.jpg" />
+    <Content Include="Content\Images\r2_dragon.ico" />
+    <Content Include="Content\Images\WinAmp.png" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
@@ -212,12 +216,25 @@
     <Content Include="Static\B4-Button-Group.html" />
     <Content Include="Static\B4-Button-Group2.html" />
     <Content Include="Static\B4-Button.html" />
+    <Content Include="Static\B4-Card-Basics.html" />
+    <Content Include="Static\B4-Card-Columns.html" />
+    <Content Include="Static\B4-Cards-Profile.html" />
+    <Content Include="Static\B4-CheckBox-Radio.html" />
+    <Content Include="Static\B4-Collapsible.html" />
+    <Content Include="Static\B4-Dropdown.html" />
     <Content Include="Static\B4-Image1.html" />
     <Content Include="Static\B4-List-Group-Flush.html" />
+    <Content Include="Static\B4-Modal-Static.html" />
+    <Content Include="Static\B4-Nav-Basic.html" />
+    <Content Include="Static\B4-Navbar-Basic.html" />
+    <Content Include="Static\B4-Navbar-Collapse.html" />
+    <Content Include="Static\B4-Navbar-Static.html" />
+    <Content Include="Static\B4-Navbar-Sticky-Top.html" />
     <Content Include="Static\B4-Progress-Bars.html" />
     <Content Include="Static\B4-Table1.html" />
     <Content Include="Static\B4-Table2.html" />
     <Content Include="Static\B4-Table3.html" />
+    <Content Include="Static\B4-Tabs.html" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

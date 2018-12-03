@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Form Radio-Checkbox</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="/Content/bootstrap.min.css" rel="stylesheet" />
+	<script src="/Scripts/jquery-3.3.1.min.js"></script>
+	<script src="/Scripts/umd/popper.min.js"></script>
+	<script src="/Scripts/bootstrap.min.js"></script>
+	<style>
+		.container, .space {
+			padding-top: 80px;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+	
+		<div class="row">
+			<div class="offset-md-4 col-md-4">
+				<h4>Sample Checkboxes and Radios</h4>
+				<div class="form-group">
+					<label for="username">Username: </label>
+					<input type="text" id="username" class="form-control" />
+				</div>
+				<div class="form-group">
+					<label for="password">Password: </label>
+					<input type="password" id="password" class="form-control" />
+				</div>
+				<div class="form-check">
+					<label class="form-check-label">
+						<input type="checkbox" class="form-check-input" name="durableSession"/> Durable Session
+					</label>
+				</div>
+				<div class="custom-checkbox custom-control">
+					<input id="patternMatching" type="checkbox" class="custom-control-input" name="patternMatching"/> 
+					<label for="patternMatching" class="custom-control-label">Pattern Matching</label>
+				</div>
+				<div class="form-check">
+					<label class="form-check-label">
+						<input name="authType" class="form-check-input" type="radio" /> Oauth 2
+					</label>
+				</div>
+				<div class="custom-control custom-radio">
+					<input type="radio" class="custom-control-input" id="authTypeOpenId" name="authType"/>
+					<label class="custom-control-label" for="authTypeOpenId">OpenID Connect	</label>
+				</div>
+				<br />
+				<button type="submit" class="btn btn-primary">Login</button>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
